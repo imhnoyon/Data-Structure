@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "future": "cpp",
+        "system_error": "cpp",
+        "regex": "cpp"
+    }
+}

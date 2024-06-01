@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "regex": "cpp",
+        "type_traits": "cpp",
+        "atomic": "cpp",
+        "bitset": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "fstream": "cpp",
+        "sstream": "cpp",
+        "valarray": "cpp"
+    }
+}

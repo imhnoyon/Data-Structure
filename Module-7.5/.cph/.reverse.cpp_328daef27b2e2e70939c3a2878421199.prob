@@ -1,0 +1,1 @@
+{"name":"Local: reverse","url":"e:\\Basic Data structure\\Module-7.5\\reverse.cpp","tests":[{"id":1701877493474,"input":"5 4 8 6 2 1 -1","output":"1 2 6 8 4 5"},{"id":1701877520354,"input":"1 2 3 4 -1","output":"4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Basic Data structure\\Module-7.5\\reverse.cpp","group":"local","local":true}
